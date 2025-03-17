@@ -34,7 +34,7 @@ JSON (as a database)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/geniusbj8/contact-list-app.git
+git clone https://github.com/Fabby24/Contact-list-App
 cd contact-list-app
 
 2️⃣ Set Up the Backend
